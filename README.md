@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="KUNDEV-linkedin" />
   </a>
 
-  <a href="mailto:" target="top">
+  <a href="mailto:cuongtran8c@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="KUNDEV-email" />
   </a>
 </div>
