@@ -12,14 +12,11 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="KUNDEV-facebook" />
   </a>
   <a href="https://www.tiktok.com/@cuong.cuong1?_t=8Vn0ZPGZPjl&_r=1" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="KUNDEV-tiktok" />
-  </a>
+    
   <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-tr%E1%BA%A7n-086785220/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="KUNDEV-linkedin" />
   </a>
-  <a href="https://www.instagram.com/cuongdzyyy/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="KUNDEV-instagram" />
-  </a>
+
   <a href="mailto:" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="KUNDEV-email" />
   </a>
